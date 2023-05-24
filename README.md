@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Student1-311837920833/GitHub%20Integration/_apis/build/status%2FIanCousins.ContosoAir?branchName=master)](https://dev.azure.com/Student1-311837920833/GitHub%20Integration/_build/latest?definitionId=5&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
